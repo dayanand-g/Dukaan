@@ -1,6 +1,9 @@
-# Dukaan For Pc
+# Dukaan For PC
 
 ## App has been hosted in Vercel
+![{1FE80CFF-6414-4A57-BC86-3AA3FD06531E}](https://user-images.githubusercontent.com/89378073/220878437-13e99ca4-7520-4a89-a65b-72f006a98cef.png)
+
+![{9BD95B7C-418C-44C9-ABDE-0446D746D25C}](https://user-images.githubusercontent.com/89378073/220878473-0a5aa957-84a8-4025-ae56-167cce4f2cfc.png)
 
 ## Getting Started with Create React App
 
