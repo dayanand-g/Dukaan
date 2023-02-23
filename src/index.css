@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Galano-semibold";
+    src: url("../src/Fonts/galanogrotesque-semibold.otf");
+  }
+
+@font-face {
+    font-family: "Galano-regular";
+    src: url("../src/Fonts/galanogrotesque-regular.otf");
+  }
+
+@font-face {
+    font-family: "Galano-medium";
+    src: url("../src/Fonts/galanogrotesque-medium.otf");
+  }

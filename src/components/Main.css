@@ -1,0 +1,201 @@
+.main {
+    width: 1120px;
+    height: 1430px;
+    background: #ffff;
+    box-shadow: 0px 2px 8px rgba(26, 24, 30, 0.06);
+    border-radius: 8px;
+    margin-top: 32px;
+    /* left: 180px; */
+    top: 134px;
+    position: absolute;
+}
+
+.main-header {
+    font-family: 'Galano-semibold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: -0.04em;
+    color: #1A181E;
+    padding: 64px 0 16px 0;
+}
+
+.main-paragraph {
+    font-family: 'Galano-regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #4D4D4D;
+    padding-bottom: 48px;
+}
+
+.small-text {
+    font-family: 'Galano-medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4D4D4D;
+    padding-bottom: 8px;
+}
+
+input {
+    box-sizing: border-box;
+    width: 352px;
+    height: 48px;
+    left: 352px;
+    top: 392px;
+    border: 1px solid #D9D9D9;
+    border-radius: 4px;
+    margin-bottom: 48px;
+    background-image: url('../Icons/Union.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 325px;
+    padding: 0 0 10px 10px;
+}
+
+input::placeholder {
+    font-family: 'Galano-regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1A181E;
+  }
+
+.btn {
+    width: 204px;
+    height: 50px;
+    background: #146EB4;
+    border-radius: 4px;
+    padding: 10px 24px;
+    margin-bottom: 48px;
+    color: #ffff;
+    font-family: 'Galano-medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.hr1 {
+    width: 736px;
+    margin: auto;
+    border-color: #D9D9D9;
+    margin-bottom: 52px;
+}
+
+.hr2 {
+    width: 736px;
+    margin: auto;
+    border-color: #D9D9D9;
+    margin-bottom: 26px;
+}
+
+.btn-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.medium-text {
+    font-family: 'Galano-medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #1A181E;
+    margin-bottom: 20px;
+}
+
+.download-btn {
+    font-family: 'Galano-medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    height: fit-content;
+    line-height: 20px;
+    color: #146EB4;
+    border: solid #146EB4 1px;
+    border-radius: 4px;
+    padding: 7px 15px 5px 15px;
+    text-align: center;
+    height: 36px;
+}
+
+.list-element-left {
+    height: 60px;
+    background: #F2F2F2;
+    border-radius: 4px;
+    margin: 20px 0;
+    font-family: 'Galano-regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1A181E;
+    padding: 8px 15px;
+}
+
+.list-element-left-extra {
+    height: 60px;
+    background: #F2F2F2;
+    border-radius: 4px;
+    margin: 20px 0;
+    font-family: 'Galano-regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1A181E;
+    padding: 15px;
+}
+
+.list-element-right {
+    height: 60px;
+    background: #F2F2F2;
+    border-radius: 4px;
+    margin: 20px 0;
+    font-family: 'Galano-regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1A181E;
+    padding: 15px;
+}
+
+.last-section-numbers {
+    display: flex;
+    font-family: 'Galano-regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #146EB4;
+}
+
+.number1 {
+    border-radius: 100%;
+    background-color: #146EB4;
+    color: #ffff;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.last-section-elements {
+    font-family: 'Galano-regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #146EB4;
+}
+
+.last-section {
+    display: flex;
+    justify-content: space-between;
+}
+
